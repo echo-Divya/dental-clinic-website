@@ -15,7 +15,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 2rem 2.5rem;
+  padding: 1rem 2.5rem;
   color: #121c28;
 }
 nav img {
@@ -70,8 +70,8 @@ main {
   line-height: 4rem;
 }
 .hero-content p {
-  margin-top: 2rem;
-  margin-bottom: 2.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 3rem;
   font-size: 1rem;
   line-height: 1.3rem;
   color: #1a293a;
@@ -86,7 +86,7 @@ main {
   font-weight: 700;
   text-decoration: none;
 }
-.hero-content button:hover {
+.hero-content a:hover {
   background-color: #1a293a;
   cursor: pointer;
 }
